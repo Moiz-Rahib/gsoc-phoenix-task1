@@ -1,0 +1,2 @@
+Make a folder named three and put all the resources of three.js here
+Make a folder named obj and put Pix.obj here
