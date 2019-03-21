@@ -18,4 +18,6 @@ To start the server:
 3. Type- <i>./python_server.sh</i>
 4. now open the browser window and type <i>http://localhost:8000</i> and browse to the html file.
 
+<b>Note:- you must have Python3.x installed on your system in order to use above shell script.</b> 
+
 for downloading and documentation of three.js please visit <i>https://threejs.org/</i>
